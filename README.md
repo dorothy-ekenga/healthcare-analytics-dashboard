@@ -8,7 +8,6 @@ This project analyzes patient demographics, medical conditions, hospital perform
 - Microsoft Excel
 
 ## Dashboard Preview
-![Dashboard](dashboard-screenshot.png)
 
 ## Business Questions Answered
 - Which medical conditions are most common?
@@ -28,6 +27,5 @@ This project analyzes patient demographics, medical conditions, hospital perform
 - Dashboard Screenshot
 
 ## Author
-Dorothy Ekenga
 
 Dorothy Ekenga
