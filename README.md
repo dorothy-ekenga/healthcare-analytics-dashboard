@@ -27,5 +27,7 @@ This project analyzes patient demographics, medical conditions, hospital perform
 - Healthcare Dashboard.pbix
 - Dashboard Screenshot
 
+## Author
+Dorothy Ekenga
 
 Dorothy Ekenga
