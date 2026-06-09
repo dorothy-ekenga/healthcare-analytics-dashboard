@@ -8,6 +8,7 @@ This project analyzes patient demographics, medical conditions, hospital perform
 - Microsoft Excel
 
 ## Dashboard Preview
+
 ![Dashboard Overview](Screenshot 2026-05-13 130336.png)
 
 ## Business Questions Answered
