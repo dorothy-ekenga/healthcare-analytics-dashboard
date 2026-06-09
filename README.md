@@ -9,7 +9,6 @@ This project analyzes patient demographics, medical conditions, hospital perform
 
 ## Dashboard Preview
 ![Dashboard Overview](Screenshot 2026-05-13 130336.png)
-![Dashboard Overview](Screenshot 2026-05-13 131711.png)
 
 ## Business Questions Answered
 - Which medical conditions are most common?
